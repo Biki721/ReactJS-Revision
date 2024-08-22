@@ -8,7 +8,12 @@ function App() {
   
   const handleAdd = () => {
     if (counter < 20){
+      // setCounter(counter=>counter + 1)
+      // setCounter(counter=>counter + 1)
+      // setCounter(counter=>counter + 1)
+      // setCounter(counter=>counter + 1)
       setCounter(counter + 1)
+      
     }
   }
 
